@@ -1,0 +1,38 @@
+INICIO DEL PROBLEMA PRODUCTOR-CONSUMIDOR
+
+[+] Productor 1 produjo: 10 en posicion 0
+[-] Consumidor 2 consumio: 10 de la posicion 0
+[+] Productor 2 produjo: 20 en posicion 1
+[-] Consumidor 1 consumio: 20 de la posicion 1
+[+] Productor 1 produjo: 30 en posicion 2
+[+] Productor 2 produjo: 40 en posicion 3
+[-] Consumidor 2 consumio: 30 de la posicion 2
+[-] Consumidor 1 consumio: 40 de la posicion 3
+[+] Productor 2 produjo: 60 en posicion 4
+[-] Consumidor 2 consumio: 60 de la posicion 4
+[+] Productor 1 produjo: 50 en posicion 0
+[-] Consumidor 1 consumio: 50 de la posicion 0
+[+] Productor 2 produjo: 80 en posicion 1
+[+] Productor 1 produjo: 70 en posicion 2
+[-] Consumidor 2 consumio: 80 de la posicion 1
+[-] Consumidor 1 consumio: 70 de la posicion 2
+[+] Productor 2 produjo: 100 en posicion 3
+[-] Consumidor 2 consumio: 100 de la posicion 3
+[+] Productor 1 produjo: 90 en posicion 4
+[-] Consumidor 1 consumio: 90 de la posicion 4
+[+] Productor 1 produjo: 110 en posicion 0
+[-] Consumidor 1 consumio: 110 de la posicion 0
+[+] Productor 2 produjo: 120 en posicion 1
+[-] Consumidor 2 consumio: 120 de la posicion 1
+[+] Productor 1 produjo: 130 en posicion 2
+[-] Consumidor 1 consumio: 130 de la posicion 2
+[+] Productor 2 produjo: 140 en posicion 3
+[-] Consumidor 2 consumio: 140 de la posicion 3
+[+] Productor 1 produjo: 150 en posicion 4
+[-] Consumidor 2 consumio: 150 de la posicion 4
+
+Los dos productores terminaron.
+[-] Consumidor 2 termino su ejecucion
+[-] Consumidor 1 termino su ejecucion
+
+Todos los hilos terminaron correctamente.
