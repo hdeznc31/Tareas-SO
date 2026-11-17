@@ -1,0 +1,77 @@
+========================================
+       CENA DE LOS FILOSOFOS
+========================================
+Numero de filosofos: 5
+Numero de tenedores: 5
+Comidas por filosofo: 3
+
+Filosofo 1 esta pensando (ronda 1).
+Filosofo 2 esta pensando (ronda 1).
+Filosofo 3 esta pensando (ronda 1).
+Filosofo 4 esta pensando (ronda 1).
+Filosofo 5 esta pensando (ronda 1).
+Filosofo 1 tiene hambre y solicita sus tenedores.
+Filosofo 1 esta COMIENDO (ronda 1).
+Filosofo 4 tiene hambre y solicita sus tenedores.
+Filosofo 4 esta COMIENDO (ronda 1).
+Filosofo 3 tiene hambre y solicita sus tenedores.
+Filosofo 2 tiene hambre y solicita sus tenedores.
+Filosofo 5 tiene hambre y solicita sus tenedores.
+Filosofo 1 suelta sus tenedores y comienza a pensar.
+Filosofo 2 esta COMIENDO (ronda 1).
+Filosofo 1 esta pensando (ronda 2).
+Filosofo 4 suelta sus tenedores y comienza a pensar.
+Filosofo 4 esta pensando (ronda 2).
+Filosofo 5 esta COMIENDO (ronda 1).
+Filosofo 1 tiene hambre y solicita sus tenedores.
+Filosofo 2 suelta sus tenedores y comienza a pensar.
+Filosofo 2 esta pensando (ronda 2).
+Filosofo 3 esta COMIENDO (ronda 1).
+Filosofo 5 suelta sus tenedores y comienza a pensar.
+Filosofo 5 esta pensando (ronda 2).
+Filosofo 4 tiene hambre y solicita sus tenedores.
+Filosofo 1 esta COMIENDO (ronda 2).
+Filosofo 5 tiene hambre y solicita sus tenedores.
+Filosofo 1 suelta sus tenedores y comienza a pensar.
+Filosofo 1 esta pensando (ronda 3).
+Filosofo 5 esta COMIENDO (ronda 2).
+Filosofo 2 tiene hambre y solicita sus tenedores.
+Filosofo 3 suelta sus tenedores y comienza a pensar.
+Filosofo 3 esta pensando (ronda 2).
+Filosofo 2 esta COMIENDO (ronda 2).
+Filosofo 1 tiene hambre y solicita sus tenedores.
+Filosofo 5 suelta sus tenedores y comienza a pensar.
+Filosofo 5 esta pensando (ronda 3).
+Filosofo 4 esta COMIENDO (ronda 2).
+Filosofo 3 tiene hambre y solicita sus tenedores.
+Filosofo 2 suelta sus tenedores y comienza a pensar.
+Filosofo 2 esta pensando (ronda 3).
+Filosofo 1 esta COMIENDO (ronda 3).
+Filosofo 4 suelta sus tenedores y comienza a pensar.
+Filosofo 3 esta COMIENDO (ronda 2).
+Filosofo 4 esta pensando (ronda 3).
+Filosofo 5 tiene hambre y solicita sus tenedores.
+Filosofo 1 suelta sus tenedores y comienza a pensar.
+Filosofo 1 termino sus comidas.
+Filosofo 5 esta COMIENDO (ronda 3).
+Filosofo 2 tiene hambre y solicita sus tenedores.
+Filosofo 3 suelta sus tenedores y comienza a pensar.
+Filosofo 2 esta COMIENDO (ronda 3).
+Filosofo 3 esta pensando (ronda 3).
+Filosofo 4 tiene hambre y solicita sus tenedores.
+Filosofo 5 suelta sus tenedores y comienza a pensar.
+Filosofo 5 termino sus comidas.
+Filosofo 4 esta COMIENDO (ronda 3).
+Filosofo 2 suelta sus tenedores y comienza a pensar.
+Filosofo 2 termino sus comidas.
+Filosofo 3 tiene hambre y solicita sus tenedores.
+Filosofo 4 suelta sus tenedores y comienza a pensar.
+Filosofo 4 termino sus comidas.
+Filosofo 3 esta COMIENDO (ronda 3).
+Filosofo 3 suelta sus tenedores y comienza a pensar.
+Filosofo 3 termino sus comidas.
+
+========================================
+Todos los filosofos terminaron correctamente.
+No se produjo bloqueo mutuo (Deadlock).
+========================================
